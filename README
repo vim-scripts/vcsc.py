@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2366
+
+There are may existing colorscheme is GUI only.
+
+This script can convert a GUI only colorscheme to a 256xterm compatible version.
